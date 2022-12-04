@@ -1,5 +1,5 @@
 ------Hi there I’m Usama Yousuf👋
-      I’m a Front-end Developer| Mobile App Developer
+      I’m a Front-end Developer | Mobile App Developer
 - 🔭 I’m currently working on React Js Or React Native
 - 🌱 I’m currently learning Node Js
 - 👯 I’m looking to collaborate With A Team of Professional.
